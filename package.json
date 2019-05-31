@@ -1,0 +1,11 @@
+{
+    "dependencies": {},
+    "devDependencies": {
+        "husky": "^1.3.1",
+        "lint-staged": "^8.1.7"
+    },
+    "engines": {},
+    "scripts": {
+        "watch": "lwc-services watch"
+    }
+}
