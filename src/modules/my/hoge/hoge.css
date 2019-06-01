@@ -1,0 +1,37 @@
+.default{
+    color: #0000ff;
+}
+
+.contact-row{
+    display: flex;
+    width: 100%;
+}
+
+.contact-cell{
+    padding: 8px 5px;
+}
+
+.contact-index{
+    width: 10%;
+}
+
+.contact-id{
+    width: 30%;
+}
+
+.contact-name{
+    width: 30%;
+}
+
+.contact-title{
+    width: 30%
+}
+
+.last-row{
+    border-bottom: 1px solid #808080;
+}
+
+.first-row{
+    border-bottom: 1px solid #808080;
+    border-top: 1px solid #808080;
+}
