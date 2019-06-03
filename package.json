@@ -6,6 +6,7 @@
     },
     "engines": {},
     "scripts": {
-        "watch": "lwc-services watch"
+        "watch": "lwc-services watch",
+        "build": "lwc-services build"
     }
 }
